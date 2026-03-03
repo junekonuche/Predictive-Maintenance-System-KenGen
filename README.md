@@ -1,7 +1,7 @@
 # Predictive-Maintenance-System-KenGen
 An end-to-end Machine Learning system designed to predict failures in power generation assets (Wind, Hydro, Geothermal) using multi-sensor SCADA data.
 
-## 🇰🇪 Project Overview
+##  Project Overview
 This project develops a predictive maintenance system specifically modeled for **KenGen (Kenya Electricity Generating Company)**. The goal is to move from "Run-to-Failure" to "Proactive Maintenance" for critical energy infrastructure.
 
 ###  The Model
