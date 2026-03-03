@@ -1,4 +1,4 @@
-# Predictive-Maintenance-System-KenGen
+# Predictive-Maintenance-System-For-Power-Generation-Assests-KenGen
 An end-to-end Machine Learning system designed to predict failures in power generation assets (Wind, Hydro, Geothermal) using multi-sensor SCADA data.
 
 ##  Project Overview
